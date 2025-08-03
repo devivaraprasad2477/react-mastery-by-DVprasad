@@ -18,16 +18,16 @@ Welcome to my ReactJS learning repository! This repo is a structured and hands-o
 
 ## 🧠 Topics Covered
 
-| Category         |Topics                                                              
-|-------------------------------------------------------------------------------------- 
-| 🔹 Basics       | What is React, Why React, Features, Advantages, Disadvantages, JSX  
-| 🔹 Components   | Functional vs Class Components, Props, State, Component Lifecycle 
-| 🔹 Hooks        | useState, useEffect, useRef, useContext, useReducer, Custom Hooks 
-| 🔹 Routing      | React Router, Link, useNavigate, Dynamic Routing 
-| 🔹 Forms        | Controlled vs Uncontrolled Components, Form Validation 
-| 🔹 State Mgmt   | Lifting State Up, Prop Drilling, Context API, Redux (optional) 
-| 🔹 Projects     | ToDo App, Weather App, Cocktail DB App, GitHub Profile Finder 
-| 🔹 Advanced     | Performance Optimization, Lazy Loading, Memoization, Code Splitting 
+| Category       | Topics |
+|----------------|--------|
+| 🔹 Basics       | What is React, Why React, Features, Advantages, Disadvantages, JSX |
+| 🔹 Components   | Functional vs Class Components, Props, State, Component Lifecycle |
+| 🔹 Hooks        | useState, useEffect, useRef, useContext, useReducer, Custom Hooks |
+| 🔹 Routing      | React Router, Link, useNavigate, Dynamic Routing |
+| 🔹 Forms        | Controlled vs Uncontrolled Components, Form Validation |
+| 🔹 State Mgmt   | Lifting State Up, Prop Drilling, Context API, Redux (optional) |
+| 🔹 Projects     | ToDo App, Weather App, Cocktail DB App, GitHub Profile Finder |
+| 🔹 Advanced     | Performance Optimization, Lazy Loading, Memoization, Code Splitting |
 
 ---
 
