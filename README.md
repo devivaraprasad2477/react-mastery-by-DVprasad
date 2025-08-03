@@ -40,8 +40,8 @@ react-mastery-by-DVprasad/
 │   └── disadvantages.md
 ├── components/
 │   ├── FunctionalComponent.jsx
-│   ├── ClassComponent.jsx
-│   └── props-vs-state.md
+│   └── ClassComponent.jsx
+├── props-vs-state.md
 ├── hooks/
 │   ├── useState/
 │   ├── useEffect/
