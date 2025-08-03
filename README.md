@@ -34,29 +34,30 @@ Welcome to my ReactJS learning repository! This repo is a structured and hands-o
 ## 📁 Folder Structure
 react-mastery-by-DVprasad/
 ├── basics/
-│ ├── what-is-react.md
-│ ├── why-react.md
-│ ├── features.md
-│ └── disadvantages.md
+│   ├── what-is-react.md
+│   ├── why-react.md
+│   ├── features.md
+│   └── disadvantages.md
 ├── components/
-│ ├── FunctionalComponent.jsx
-│ ├── ClassComponent.jsx
-│ └── props-vs-state.md
+│   ├── FunctionalComponent.jsx
+│   ├── ClassComponent.jsx
+│   └── props-vs-state.md
 ├── hooks/
-│ ├── useState/
-│ ├── useEffect/
-│ ├── useRef/
-│ └── custom-hooks/
+│   ├── useState/
+│   ├── useEffect/
+│   ├── useRef/
+│   └── custom-hooks/
 ├── projects/
-│ ├── todo-app/
-│ ├── weather-app/
-│ ├── cocktail-db-app/
-│ └── github-profile-finder/
+│   ├── todo-app/
+│   ├── weather-app/
+│   ├── cocktail-db-app/
+│   └── github-profile-finder/
 ├── advanced/
-│ ├── context-api/
-│ ├── routing/
-│ └── performance-optimization/
+│   ├── context-api/
+│   ├── routing/
+│   └── performance-optimization/
 └── README.md
+
 
 Each folder includes:
 - 📝 Concept notes
